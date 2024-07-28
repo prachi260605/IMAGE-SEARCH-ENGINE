@@ -13,5 +13,4 @@ This project is an image search engine designed to retrieve and display relevant
 ## Home Page
 ![image](https://github.com/user-attachments/assets/07fb1ac5-e160-4fce-9244-67355d8a5eaf)
 
-## Link to Visit the Website
-![https://prachi260605.github.io/IMAGE-SEARCH-ENGINE/](https://prachi260605.github.io/IMAGE-SEARCH-ENGINE/)
+[Link to Visit the Website](https://prachi260605.github.io/IMAGE-SEARCH-ENGINE/)
